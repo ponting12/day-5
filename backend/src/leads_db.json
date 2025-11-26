@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Adi",
+        "company": null,
+        "email": "adityayadav12114@gmail.com",
+        "role": null,
+        "use_case": "making a voice agent",
+        "team_size": null,
+        "timeline": null,
+        "timestamp": "2025-11-26T19:06:31.463418"
+    },
+    {
+        "name": "anurag",
+        "company": null,
+        "email": "anuragyadav12@gmail.com",
+        "role": null,
+        "use_case": "basic Google Cloud learning",
+        "team_size": null,
+        "timeline": "next month",
+        "timestamp": "2025-11-26T19:17:39.564688"
+    }
+]
